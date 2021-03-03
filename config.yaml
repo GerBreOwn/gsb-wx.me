@@ -1,7 +1,7 @@
 baseurl: 'https://www.example.com/'
 languageCode: en-us
 title: Blackburn Theme Demo
-theme: blackburn
+theme: blackburn-master
 author: Yoshiharu Yamashita
 copyright: '&copy; 2016. All rights reserved.'
 canonifyurls: true
