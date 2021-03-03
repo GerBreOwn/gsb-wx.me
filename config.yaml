@@ -2,15 +2,4 @@ baseURL: https://gsb-wx.me
 languageCode: en-us
 title: My Weather Site
 theme: blackburn-master
-author:
-	"Gerald S Brown"
-	
-menu:
-	- identifier: about
-	- name: About
-	-url: /about
-	-weight: 1
-	
-footer:
-	-title: About
-	
+
