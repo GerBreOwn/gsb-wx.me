@@ -1,4 +1,4 @@
-baseurl: 'https://www.gsb-wx.me'
+baseurl: 'https://www.gsb-wx.me/'
 languageCode: en-us
 title: My Weather Site
 theme: blackburn-master
