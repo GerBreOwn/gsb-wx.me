@@ -1,5 +1,46 @@
-baseURL: https://gsb-wx.me
+baseurl: 'https://www.example.com/'
 languageCode: en-us
-title: My Weather Site
-theme: blackburn-master
-
+title: Blackburn Theme Demo
+theme: blackburn
+author: Yoshiharu Yamashita
+copyright: '&copy; 2016. All rights reserved.'
+canonifyurls: true
+paginate: 10
+indexes:
+  tag: tags
+  topic: topics
+params:
+  subtitle: A Hugo Theme
+  brand: Blackburn
+  googleAnalytics: Your Google Analytics tracking ID
+  disqus: Your Disqus shortname
+  highlightjs: androidstudio
+  dateFormat: '02 Jan 2006, 15:04'
+menu:
+  main:
+    - name: Home
+      pre: <i class='fa fa-home fa-fw'></i>
+      weight: 1
+      identifier: home
+      url: /
+    - name: Posts
+      pre: <i class='fa fa-list fa-fw'></i>
+      weight: 2
+      identifier: post
+      url: /post/
+    - name: About
+      pre: <i class='fa fa-user fa-fw'></i>
+      weight: 3
+      identifier: about
+      url: /about/
+    - name: Contact
+      pre: <i class='fa fa-phone fa-fw'></i>
+      weight: 4
+      url: /contact/
+social:
+  twitter: '*'
+  facebook: '*'
+  instagram: '*'
+  linkedin: '*'
+  github: yoshiharuyamashita
+  stackoverflow: '*'
