@@ -1,7 +1,3 @@
----
-sidemenu = "true"
----
-
 # This is the **about** page.
 
 This page will explain what this site is **about**, what it will show you, how it is being built and with what software.
