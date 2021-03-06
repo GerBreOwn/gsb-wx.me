@@ -1,33 +1,33 @@
-baseurl: 'https://www.gsb-wx.me/'
+baseurl: 'https://www.gsb-wx.me'
 languageCode: en-us
 title: My Weather Site
 theme: blackburn-master
 author: Gerald S Brown
 copyright: '&copy; 2021. All rights reserved.'
 canonifyurls: true
-paginate: 10
-indexes:
-  tag: tags
-  topic: topics
+#~ paginate: 10
+#~ indexes:
+  #~ tag: tags
+  #~ topic: topics
 
-menu:
-  main:
-    - name: Home
-      pre: <i class='fa fa-home fa-fw'></i>
-      weight: 1
-      identifier: home
-      url: /
-    - name: Today's Weather
-      pre: <i class='fa fa-list fa-fw'></i>
-      weight: 2
-      identifier: today's_weather
-      url: /today's_weather
-    - name: About
-      pre: <i class='fa fa-user fa-fw'></i>
-      weight: 3
-      identifier: about
-      url: /about/
-    - name: Contact
-      pre: <i class='fa fa-phone fa-fw'></i>
-      weight: 4
-      url: /contact/
+#~ menu:
+  #~ main:
+    #~ - name: Home
+      #~ pre: <i class='fa fa-home fa-fw'></i>
+      #~ weight: 1
+      #~ identifier: home
+      #~ url: /
+    #~ - name: Today's Weather
+      #~ pre: <i class='fa fa-list fa-fw'></i>
+      #~ weight: 2
+      #~ identifier: today's_weather
+      #~ url: /today's_weather
+    #~ - name: About
+      #~ pre: <i class='fa fa-user fa-fw'></i>
+      #~ weight: 3
+      #~ identifier: about
+      #~ url: /about/
+    #~ - name: Contact
+      #~ pre: <i class='fa fa-phone fa-fw'></i>
+      #~ weight: 4
+      #~ url: /contact/
