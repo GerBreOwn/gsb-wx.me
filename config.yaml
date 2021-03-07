@@ -6,5 +6,5 @@ author: Gerald S Brown
 copyright: '&copy; 2021. All rights reserved.'
 
 [outputs]
-home:  ["HTML", "RSS", "JSON]
+home:  ["HTML", "RSS", "JSON"]
 
