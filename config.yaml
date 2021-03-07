@@ -4,7 +4,3 @@ title: My Weather Site
 theme: hugo-theme-learn
 author: Gerald S Brown
 copyright: '&copy; 2021. All rights reserved.'
-
-[outputs]
-home:  ["HTML", "RSS", "JSON"]
-
