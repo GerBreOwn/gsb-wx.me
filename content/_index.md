@@ -10,5 +10,5 @@ This home page will lead you to all of the 24 content pages showing each of the 
 
 ## Summary
 
-{{% children style="h3" depth = "2" description="true" %}}
+{{% children style="h3" depth="2" description="true" %}}
 
