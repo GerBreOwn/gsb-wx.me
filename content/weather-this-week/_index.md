@@ -3,7 +3,6 @@ title: "Weather This Week"
 date: 2021-03-06T19:01:01+08:00
 weight: 5
 chapter: true
-pre: "<b>1. </b>"
 ---
 
 # Weather this week
