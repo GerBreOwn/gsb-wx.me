@@ -16,3 +16,5 @@ These readings will be read using a Raspberry Pi Zero-WH as soon as the Philippi
 
 The package was being tracked on-line and the last report was on Jan 2, 2021 when it said it was leaving Manila, Philippines for the  final destination of my home. As of Mar 8, 2021 I am still waiting for that package. 
 
+As I have not yet received the above package I am using Python's Random Function to create random data to fill each of the charts much like the Main Stream Media in the US that generates their **FAKE** news segments that are filled with **LIES**. In the computer world it is known as **RANDOM DATA**.
+
