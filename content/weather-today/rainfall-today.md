@@ -5,4 +5,4 @@ type: page
 weight: 6
 ---
 
-# Today's Rainfall
+# This page will show the amount of rainfall for today.

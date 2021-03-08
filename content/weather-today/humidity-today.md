@@ -5,4 +5,4 @@ type: page
 weight: 6
 ---
 
-# Today's Humidity
+# This page will show the Humidity readings for today.
