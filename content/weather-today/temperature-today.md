@@ -5,7 +5,7 @@ weight: 6
 type: page
 ---
 
-This page will show the current temperature for today at my location as of 'date +'%Y-%m-%d'.
+This page will show the current temperature for today at my location as of  **"date +'%Y-%m-%d'"**.
 
 It will have a **funnel chart** showing the Maximum, Average and Minimum temperatures for the day.
 
