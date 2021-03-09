@@ -1,6 +1,7 @@
 ---
 title: "Contact"
 date: 2021-03-09T18:11:15+08:00
+weight: 3
 ---
 
 <form class="pure-form pure-form-stacked">
