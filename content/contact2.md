@@ -1,7 +1,9 @@
----
-title: "Contact"
-date: 2021-03-09T18:11:15+08:00
----
++++
+title = "Contact"
+date = "2014-04-09"
+sidemenu = "true"
+description = "How to contact me"
++++
 
 <form class="pure-form pure-form-stacked">
   <fieldset>
