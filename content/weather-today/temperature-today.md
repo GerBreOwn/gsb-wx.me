@@ -11,3 +11,4 @@ It will have a **funnel chart** showing the Maximum, Average and Minimum tempera
 
 Below this will be a **line chart** showing the above values by the hour of the day.
 
+{% include /static/images/Today_temp.html %}
