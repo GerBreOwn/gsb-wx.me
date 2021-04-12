@@ -1,6 +1,8 @@
+---
 baseurl: https://www.gsb-wx.me
 languageCode: en-us
 title: My Weather Site
 theme: hugo-theme-learn
 author: Gerald S Brown
 copyright: '&copy; 2021. All rights reserved
+---
