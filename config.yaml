@@ -4,7 +4,4 @@ title: My Weather Site
 theme: hugo-theme-learn
 author: Gerald S Brown
 copyright: '&copy; 2021. All rights reserved
-[params]
-  # Change default color scheme with a variant one. Can be "red", "blue", "green".
-  themeVariant = "blue"
 
