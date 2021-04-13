@@ -8,4 +8,4 @@ author: Gerald S Brown
    publish = "public"
    
 [build.environment]
-  HUGO_VERSION = "hugo v0.81.0-59D15C97 linux/arm BuildDate=2021-02-19T17:07:12Z VendorInfo=gohugoio"
+  HUGO_VERSION = "0.81.0"
