@@ -6,3 +6,5 @@ type: page
 ---
 
 # Today's Pressure
+
+{{<include-html "/static/images/Today_pressure.html">}}
