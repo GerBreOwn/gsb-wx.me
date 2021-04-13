@@ -3,3 +3,9 @@ languageCode: en-us
 title: My Weather Site
 theme: hugo-theme-learn
 author: Gerald S Brown
+[build]
+   command = "hugo"
+   publish = "public"
+   
+[build.environment]
+  HUGO_VERSION = "hugo v0.81.0-59D15C97 linux/arm BuildDate=2021-02-19T17:07:12Z VendorInfo=gohugoio"
