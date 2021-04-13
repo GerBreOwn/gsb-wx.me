@@ -3,9 +3,3 @@ languageCode: en-us
 title: My Weather Site
 theme: hugo-theme-learn
 author: Gerald S Brown
-[build]
-   command = "hugo"
-   publish = "public"
-   
-[build.environment]
-  HUGO_VERSION = "0.81.0"
