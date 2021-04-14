@@ -13,5 +13,4 @@ chapter: true
 2. Humidity This Week
 3. Barometric Pressure This Week
 4. Wind Speed This Week
-5. Wind Gusts This Week
-6. Rainfall This Week
+5. Rainfall This Week

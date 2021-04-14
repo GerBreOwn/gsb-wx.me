@@ -6,7 +6,7 @@ weight: 1
 
 # Home Page
 
-This home page will lead you to all of the 24 content pages showing each of the weather conditions for the time frame specified.
+This home page will lead you to all of the 20 content pages showing each of the weather conditions for the time frame specified.
 
 ## Summary
 

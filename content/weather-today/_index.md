@@ -15,6 +15,5 @@ author: Gerald Brown
 2. Humidity Today
 3. Barometric Pressure Today
 4. Wind Speed Today
-5. Wind Gusts Today
-6. Rainfall Today
+5. Rainfall Today
 

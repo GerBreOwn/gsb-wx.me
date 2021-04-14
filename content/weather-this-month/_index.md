@@ -12,6 +12,5 @@ chapter: true
 2. Humidity This Month
 3. Barometric Pressure This Month
 4. Wind Speed This Month
-5. Wind Gusts This Month
-6. Rainfall This Month
+5. Rainfall This Month
 

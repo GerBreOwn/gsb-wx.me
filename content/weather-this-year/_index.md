@@ -13,5 +13,4 @@ chapter: true
 2. Humidity This Year
 3. Barometric Pressure This Year
 4. Wind Speed This Year
-5. Wind Gusts This Year
-6. Rainfall This Year
+5. Rainfall This Year
