@@ -3,3 +3,6 @@ languageCode: en-us
 title: My Weather Site
 theme: hugo-theme-learn
 author: Gerald S Brown
+
+[params]
+   themeVariant = "blue"
