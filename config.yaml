@@ -3,7 +3,3 @@ languageCode: en-us
 title: My Weather Site
 theme: hugo-theme-learn
 author: Gerald S Brown
-
-[params]
-  # Change default color scheme with a variant one. Can be "red", "blue", "green".
-themeVariant: blue
