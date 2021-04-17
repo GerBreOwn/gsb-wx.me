@@ -5,4 +5,4 @@ type: page
 weight: 5
 ---
 
-{{<include-html "/static/images/Today_wind_speed.html">}}
+{{<include-html "/static/Today_wind_speed.html">}}

@@ -7,4 +7,4 @@ weight: 2
 
 # This page will show the Humidity readings for today.
 
-{{<include-html "/static/images/Today_humidity.html">}}
+{{<include-html "/static/Today_humidity.html">}}

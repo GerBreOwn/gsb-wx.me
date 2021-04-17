@@ -7,4 +7,4 @@ weight: 6
 
 # This page will show the amount of rainfall for today.
 
-{{<include-html "/static/images/Today_rainfall.html">}}
+{{<include-html "/static/Today_rainfall.html">}}
