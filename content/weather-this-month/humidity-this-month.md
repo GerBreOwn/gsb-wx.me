@@ -5,4 +5,4 @@ type: page
 weight: 2
 ---
 
-This page is still a work in **PROGRESS**
+{{<include-html "/static/Month_humidity.html">}}
