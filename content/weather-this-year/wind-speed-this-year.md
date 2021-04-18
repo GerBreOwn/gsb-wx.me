@@ -5,4 +5,4 @@ type: page
 weight: 6
 ---
 
-This page is still a work in **PROGRESS**
+{{<include-html "/static/Year_wind_speed.html">}}
