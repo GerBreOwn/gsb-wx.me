@@ -5,6 +5,12 @@ type: page
 weight: 2
 ---
 
-# This page will show the Humidity readings for today.
+This page will show the current humidity for today at my location in the Philippines as of: {{.GitInfo.authorDate}}
+
+It has a **funnel chart** showing the Maximum, Average and Minimum humiditys for the day.
+
+Below this is a **line chart** showing the above values by the hour of the day.
+
+**Please wait while the charts are loading.**
 
 {{<include-html "/static/Today_humidity.html">}}
