@@ -3,10 +3,9 @@ title: "Temperature Today"
 date: 2021-03-06T19:14:12+08:00
 weight: 1
 type: page
-publishdate: current_date
 ---
 
-This page will show the current temperature for today at my location as of. 
+This page will show the current temperature for today at my location as of: {{.GitInfo.authorDate}}
 
 It has a **funnel chart** showing the Maximum, Average and Minimum temperatures for the day.
 
