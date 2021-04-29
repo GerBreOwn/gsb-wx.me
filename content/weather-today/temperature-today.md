@@ -5,10 +5,8 @@ weight: 1
 type: page
 ---
 
-This page will show the current temperature for today at my location in the Philippines as of: 
-{{ if .GitInfo }}
-  {{ $date = .GitInfo.AuthorDate }}
-{{ end }}
+This page will show the current temperature for today at my location in the Philippines as of: .Page.Lastmod
+
 
 It has a **funnel chart** showing the Maximum, Average and Minimum temperatures for the day.
 
