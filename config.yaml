@@ -3,7 +3,7 @@ languageCode: en-us
 title: My Weather Site
 theme: hugo-theme-learn
 author: Gerald S Brown
-#publish_date: true
-#last_modified: true
+publish_date: true
+last_modified: true
 enableGitInfo: true
 
