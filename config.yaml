@@ -6,4 +6,5 @@ author: Gerald S Brown
 publish_date: true
 last_modified: true
 enableGitInfo: true
+{{ dateFormat "Jan 06, 2021 15:04:00" .Date.Local }}
 
