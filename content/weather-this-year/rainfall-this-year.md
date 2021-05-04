@@ -13,4 +13,4 @@ Below this is a **line chart** showing the above values by the hour of the day.
 
 **Please wait while the charts are loading.**
 
-{{<include-html "/static/Year_rainfall.html">}}
+{{<include-html "/static/Year2021_rainfall.html">}}

@@ -13,4 +13,4 @@ Below this is a **line chart** showing the above values by the hour of the day.
 
 **Please wait while the charts are loading.**
 
-{{<include-html "/static/Today_humidity.html">}}
+{{<include-html "/static/2021-05-03_humid.html">}}

@@ -11,4 +11,4 @@ It has a **funnel chart** showing the Maximum, Average and Minimum wind speeds f
 Below this is a **line chart** showing the above values by the hour of the day.
 
 **Please wait while the charts are loading.**
-{{<include-html "/static/Today_wind_speed.html">}}
+{{<include-html "/static/2021-05-03_wind_speed.html">}}

@@ -13,4 +13,4 @@ Below this is a **line chart** showing the above values by the hour of the day.
 
 **Please wait while the charts are loading.**
 
-{{<include-html "/static/Month_wind_speed.html">}}
+{{<include-html "/static/May-2021_wind_speed.html">}}

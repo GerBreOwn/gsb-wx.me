@@ -14,4 +14,4 @@ Below this is a **line chart** showing the above values by the hours of the day.
 
 **Please wait while the charts are loading.**
 
-{{<include-html "/static/Today_temp.html">}}
+{{<include-html "/static/2021-05-03_temp.html">}}
