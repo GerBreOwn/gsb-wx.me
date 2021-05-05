@@ -4,6 +4,8 @@ date: 2021-03-09T18:07:17+08:00
 weight: 4
 ---
 
+{{ dateFormat "02 Jan 06 15:04 MST" .Date.Local }}
+
 # This is the **about** page.
 
 This page will explain what this site is **about**, what it will show you, how it is being built and with what software.
